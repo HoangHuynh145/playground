@@ -1,3 +1,4 @@
 console.log(123)
 console.log('Hello')
-console.log('Ten ban la... Hoang')
+let name = 'Hoàng'
+console.log('Ten ban la...', name)
